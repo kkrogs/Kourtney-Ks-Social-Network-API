@@ -27,3 +27,5 @@ If you have any questions about the repository, feel free to contact me at kourt
 
 Here is a link to view the repository from Github:
 https://github.com/kkrogs/Kourtney-Ks-Social-Network-API
+
+Instructional Video Here: https://app.vidcast.io/share/6bc5ed1e-221b-40e0-b596-87ebde387d13
