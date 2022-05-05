@@ -12,7 +12,7 @@ module.exports = {
             );
     },
 
-    // this gets a single thought and returns it to the user
+    // gets a single thought and returns it to the user
     getSingleThought(req, res) {
         Thought.findOne({ _id: req.params.thoughtId })
             .populate('reactions')
