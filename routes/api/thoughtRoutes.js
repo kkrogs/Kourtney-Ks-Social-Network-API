@@ -10,7 +10,7 @@ const {
 } = require('../../controllers/thoughtController');
 
 
-// current route is /api/thoughts
+// the current route is /api/thoughts
 
 router.route('/').get(getAllThoughts).post(postNewThought);
 
