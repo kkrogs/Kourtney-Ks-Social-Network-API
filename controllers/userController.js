@@ -1,6 +1,6 @@
 const { User } = require('../models');
 
-// exporting all of the functions
+// exports all of the functions
 module.exports = {
 
     // this gets all of the users and returns it as json
