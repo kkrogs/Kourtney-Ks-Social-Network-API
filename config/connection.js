@@ -1,6 +1,6 @@
 const { connect, connection } = require('mongoose');
 
-// connecting to the database
+// connects to the database
 connect('mongodb://localhost/userThoughts', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
